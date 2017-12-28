@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "546264791583",
+    "project_id": "signin-12"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546264791583:android:e8a9da3c6616563b",
+        "android_client_info": {
+          "package_name": "com.example.yashc.loginscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546264791583-ug6t295tvlg6u84n7ruvlah8ofq2jjgm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "546264791583-7k9s3ad0c9lrods5dp0h0ur9v5qphbeh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yashc.loginscreen",
+            "certificate_hash": "33ecdc8227342ab2edd369c3f36d05139e5bde7c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKQLdaLvhLnWM5MGOM_PusRH30K4KyBs0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
